@@ -4,6 +4,8 @@
 # NaturePHDSurvey
 
 <!-- badges: start -->
+
+![R-CMD-check](https://github.com/jflint21/NaturePHDSurvey/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of NaturePHDSurvey is to … (add to this)
