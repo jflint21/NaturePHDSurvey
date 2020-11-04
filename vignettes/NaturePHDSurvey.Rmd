@@ -1,0 +1,19 @@
+---
+title: "NaturePHDSurvey"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{NaturePHDSurvey}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+This vignette is not final.
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(NaturePHDSurvey)
+```
