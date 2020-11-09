@@ -4,7 +4,7 @@
 \name{NaturePHDSurvey}
 \alias{NaturePHDSurvey}
 \alias{NaturePHDSurvey-package}
-\title{Discs for Disc Golf}
+\title{NaturePHDSurvey}
 \format{
 A dataframe with 6812 elements
 \describe{
@@ -31,9 +31,6 @@ A dataframe with 6812 elements
 NaturePHDSurvey
 }
 \description{
-This package contains specifications for discs approved by
-the Professional Disc Golf Association
-
 A data set containing a selection of responses
 to a 2019 Nature survey of current PhD candidates
 }

@@ -1,13 +1,9 @@
-#' Discs for Disc Golf
-#'
-#' This package contains specifications for discs approved by
-#' the Professional Disc Golf Association
 #' @docType package
 #' @name NaturePHDSurvey
 #' @aliases NaturePHDSurvey NaturePHDSurvey-package
 NULL
 
-#' "NaturePHDSurvey"
+#' NaturePHDSurvey
 #'
 #' A data set containing a selection of responses
 #' to a 2019 Nature survey of current PhD candidates
